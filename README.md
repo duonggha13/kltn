@@ -3,10 +3,10 @@
 > pip install -r requirements.txt
 # Classification
 ## Training
-> python class_train.py --embeddings<Path to a npz file with the embedding vectors data/vectors or use build_data.py> --save<save model training>
+> python class_train.py --embeddings<embedding vectors data/vectors or use build_data.py> --save<save model training>
 # Named Entity Recognition Model
 ## Training
-> python ner_train.py --embeddings <Path to a npz file with the embedding vectors data/vectors or use build_data.py> --save <save model training>
+> python ner_train.py --embeddings <embedding vectors data/vectors or use build_data.py> --save <save model training>
 # Relationship Extraction Model
 ## Training
 > re_model/train.py
