@@ -1,0 +1,746 @@
+6-VER 5-PRO Y nfs client updates for the linux 4.10 kernel phoronix for users of the network file system there are more n
+6-VER 7-PRO N nfs client updates for the linux 4.10 kernel phoronix for users of the network file system there are more n
+5-PRO 7-VUL Y rt morphisec critical alert cve-2018-4990 acrobat_reader dc double-free_vulnerability threat analysis by smgoreli
+5-ORG 15-PRO Y rt thehackersnews july 2018 patchtuesday adobe releases security updates for a total 112 vulnerabilities affecting flashplayer ad
+1-ORG 2-PRO Y cve-2017-2992 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable heap_overflow_vulnerability w
+4-VER 2-PRO Y cve-2017-2992 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable heap_overflow_vulnerability w
+2-PRO 8-VUL Y cve-2017-2992 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable heap_overflow_vulnerability w
+2-VER 1-PRO Y 0daytoday linux x86 reverse tcp ::ffff:192.168.1.5:4444 tcp shell bin sh null-free ipv 0day
+6-ORG 7-PRO Y medium cve-2016-5218 the extensions api in google chrome prior to
+15-ORG 1-PRO Y oracle linux 7 xmlrpc elsa-2018-1780 nessus plugin id 110278 with high severity synopsis the remote oracle
+0-ORG 1-PRO Y oracle linux 7 xmlrpc elsa-2018-1780 nessus plugin id 110278 with high severity synopsis the remote oracle
+2-VER 1-PRO Y oracle linux 7 xmlrpc elsa-2018-1780 nessus plugin id 110278 with high severity synopsis the remote oracle
+9-VER 8-PRO Y threatmeter facebook bb 71 api uxss via ms internet_explorer 11
+0-PRO 5-VUL Y linux vulnerability could lead to ddos_attacks
+6-VER 1-PRO N scientific linux security update util-linux on sl7.x_x86_64 nessus
+0-PRO 2-VUL Y linux_kernel show_timer input_validation_flaw lets local users view portions of system memory on the target system
+1-ORG 4-PRO N threatmeter amazon linux ami tomcat6 alas-2016-776
+1-ORG 2-PRO N threatmeter amazon linux ami tomcat6 alas-2016-776
+6-ORG 8-PRO Y a zero-day flaw recently disclosed in microsoft s windows task scheduler could enable a bad actor to gain elevated
+1-ORG 2-PRO Y threatmeter microsoft excel object memory_handling_flaws let remote users obtain_potentially_sensitive_information
+2-PRO 8-VUL Y threatmeter microsoft excel object memory_handling_flaws let remote users obtain_potentially_sensitive_information
+2-PRO 4-VUL Y threatmeter microsoft excel object memory_handling_flaws let remote users obtain_potentially_sensitive_information
+1-ORG 2-PRO Y 0daytoday microsoft internet_explorer 11 mshtml cgenerated content::has generated svgmarker 0day exploit
+3-VER 2-PRO Y 0daytoday microsoft internet_explorer 11 mshtml cgenerated content::has generated svgmarker 0day exploit
+14-ORG 0-PRO Y rhel 7 kernel-rt rhsa-2018:1944 nessus plugin id 110618 with high severity synopsis the remote red_hat host
+14-ORG 2-PRO rhel 7 kernel-rt rhsa-2018:1944 nessus plugin id 110618 with high severity synopsis the remote red_hat host
+1-VER 0-PRO rhel 7 kernel-rt rhsa-2018:1944 nessus plugin id 110618 with high severity synopsis the remote red_hat host
+1-VER 2-PRO rhel 7 kernel-rt rhsa-2018:1944 nessus plugin id 110618 with high severity synopsis the remote red_hat host
+2-VER 1-PRO threatmeter centos 6 java-1.8.0-openjdk cesa-2018:2241 nessus plugin id 111355 with medium severity synopsis
+2-VER 3-PRO threatmeter centos 6 java-1.8.0-openjdk cesa-2018:2241 nessus plugin id 111355 with medium severity synopsis
+1-PRO 13-VUL shellcode linux arm read 0 buf 0xff stager execve bin sh null null shellcode 28 bytes
+1-PRO 0-VUL shellcode linux arm read 0 buf 0xff stager execve bin sh null null shellcode 28 bytes
+11-VER 13-PRO cve-2018-6557 the motd update script in the base-files package in ubuntu 18.04_lts_before_10.1ubuntu2.2 and ubuntu
+11-VER 10-PRO cve-2018-6557 the motd update script in the base-files package in ubuntu 18.04_lts_before_10.1ubuntu2.2 and ubuntu
+0-ORG 1-PRO microsoft excel object memory handling flaws let remote users obtain_potentially_sensitive_information and execute
+1-PRO 9-VUL microsoft excel object memory handling flaws let remote users obtain_potentially_sensitive_information and execute
+6-ORG 15-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+6-ORG 7-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+14-ORG 15-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+14-ORG 7-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+16-VER 15-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+16-VER 7-PRO na cve-2016-5206 the pdf plugin in google chrome prior to the pdf plugin in google chrome prior_to_55.0.288
+12-ORG 13-PRO threatmeter cve-2018-3110 a vulnerability was discovered in the java vm component of oracle database_server suppo
+12-ORG 8-PRO threatmeter cve-2018-3110 a vulnerability was discovered in the java vm component of oracle database_server suppo
+6-PRO 9-VUL use-after-free_uaf_vulnerability cve-2018-8373 in vbscript engine affects internet_explorer to run shellcode
+6-PRO 0-VUL use-after-free_uaf_vulnerability cve-2018-8373 in vbscript engine affects internet_explorer to run shellcode
+3-VER 2-PRO cybersecurity corporate office 365 users hit with clever phishing_attack infosec
+2-PRO 8-VUL cybersecurity corporate office 365 users hit with clever phishing_attack infosec
+1-ORG 2-PRO vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities bugtraq
+2-PRO 4-VUL vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities bugtraq
+6-PRO 3-VUL threatmeter cve-2018-8404 an elevation_of_privilege_vulnerability exists in windows when the win32k component fail
+1-VER 0-PRO rhel 7 jboss core services rhsa-2017:0194 nessus
+1-VER 2-PRO rhel 7 jboss core services rhsa-2017:0194 nessus
+1-ORG 2-PRO vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities
+2-PRO 4-VUL vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities
+1-VER 0-PRO rhel 6 sssd and ding-libs rhsa-2018:1877
+0-ORG 1-PRO oracle linux 6 kernel elsa-2018-2164 spectre nessus plugin id 110996 with high severity synopsis the remote
+2-VER 1-PRO oracle linux 6 kernel elsa-2018-2164 spectre nessus plugin id 110996 with high severity synopsis the remote
+7-PRO 6-VUL threatmeter vuln suse_opensuse build service cve-2018-12466 security_bypass_vulnerability suse_opensuse build se
+2-PRO 6-VUL threatmeter vuln suse_opensuse build service cve-2018-12466 security_bypass_vulnerability suse_opensuse build se
+2-ORG 3-PRO multiple_vulnerabilities in google chrome could allow for arbitrary_code_execution rss generated with fetchrss
+3-PRO 0-VUL multiple_vulnerabilities in google chrome could allow for arbitrary_code_execution rss generated with fetchrss
+3-PRO 7-VUL multiple_vulnerabilities in google chrome could allow for arbitrary_code_execution rss generated with fetchrss
+1-VER 0-PRO linux_kernels 4.8.10 and 4.4.34_lts out now add sparc64 and networking fixes
+3-VER 0-PRO linux_kernels 4.8.10 and 4.4.34_lts out now add sparc64 and networking fixes
+6-ORG 1-PRO microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+6-ORG 7-PRO microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+0-ORG 1-PRO microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+0-ORG 7-PRO microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+1-PRO 3-VUL microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+7-PRO 3-VUL microsoft office cve-2017-0003 memory_corruption_vulnerability type vulnerability microsoft office is prone to a
+7-VER 6-PRO rt fcg_security zerofont phishing_attack can bypass office 365 protections via securityaffairs
+6-PRO 3-VUL rt fcg_security zerofont phishing_attack can bypass office 365 protections via securityaffairs
+2-VER 1-PRO 0daytoday linux_kernel 2.6.32-rc1_x86_64 register leak exploit dos_exploits 0day exploit
+1-PRO 6-VUL 0daytoday linux_kernel 2.6.32-rc1_x86_64 register leak exploit dos_exploits 0day exploit
+13-VER 6-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+13-VER 1-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+7-VER 6-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+7-VER 1-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+2-VER 6-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+2-VER 1-PRO threatmeter chrome v8 keyaccumulator bug topic chrome v8 keyaccumulator bug risk medium text:chrome v8 a bug
+8-VER 7-PRO cve-2018-14612 an issue was discovered in the linux_kernel through_4.17.10 there is an invalid_pointer
+7-PRO 12-VUL cve-2018-14612 an issue was discovered in the linux_kernel through_4.17.10 there is an invalid_pointer
+3-VER 2-PRO git for windows 2.13.x_lt_2.13.7_2.14.x_lt_2.14.4_2.15.x_lt_2.15.2_2.16.x_lt_2.16.4_2.17.x_lt_2.17.1 remote_code
+2-PRO 4-VUL git for windows 2.13.x_lt_2.13.7_2.14.x_lt_2.14.4_2.15.x_lt_2.15.2_2.16.x_lt_2.16.4_2.17.x_lt_2.17.1 remote_code
+7-VER 6-PRO rt buherator exploiting 64-bit ie on windows 8.1 the pwn2own case via 44con
+6-ORG 7-PRO threatmeter cve-2017-3302 crash in libmysqlclient.so in oracle mysql before_5.6.21 and 5.7.x_before_5.7.5 and mar
+8-VER 7-PRO threatmeter cve-2017-3302 crash in libmysqlclient.so in oracle mysql before_5.6.21 and 5.7.x_before_5.7.5 and mar
+10-VER 7-PRO threatmeter cve-2017-3302 crash in libmysqlclient.so in oracle mysql before_5.6.21 and 5.7.x_before_5.7.5 and mar
+0-ORG 6-PRO adobe issues patch for actively exploited flash_player zero-day exploit
+1-ORG 2-PRO threatmeter adobe acrobat_reader up_to_11.0.18_15.006.30244_15.020.20042 image conversion engine tiff file buffer
+3-VER 2-PRO threatmeter adobe acrobat_reader up_to_11.0.18_15.006.30244_15.020.20042 image conversion engine tiff file buffer
+6-VER 5-PRO a vulnerability was found in openstack-tripleo-heat-templates before_version_8.0.2-40 when deployed using directo
+4-ORG 2-PRO pwc ace software for sap security 8.10.304 abap injection cxsecurity
+6-VER 2-PRO pwc ace software for sap security 8.10.304 abap injection cxsecurity
+5-PRO 2-VUL cve-2018-8249 a remote_code_execution_vulnerability exists when internet_explorer improperly accesses objects in
+1-PRO 5-VUL . docker has patched a privilege_escalation vuln that could lead to container escapes
+6-ORG 5-PRO p0wnographer finds remote_code_exec_bug in mcafee enterprise mcafee has taken six months to patch 10 infosec
+4-ORG 5-PRO p0wnographer finds remote_code_exec_bug in mcafee enterprise mcafee has taken six months to patch 10 infosec
+5-PRO 2-VUL p0wnographer finds remote_code_exec_bug in mcafee enterprise mcafee has taken six months to patch 10 infosec
+1-PRO 2-VUL vigilnce linux_kernel buffer_overflow via brcmf_cfg80211_start_ap
+1-VER 0-PRO rhel 6 sssd and ding-libs rhsa-2018:1877 nessus
+1-ORG 2-PRO threatmeter microsoft windows_server message block smbv3 response processing bug lets remote users cause the targ
+1-ORG 2-PRO threatmeter oracle glassfish_server 4.1 directory_traversal this metasploit module exploits an unauthenticated di
+3-VER 2-PRO threatmeter oracle glassfish_server 4.1 directory_traversal this metasploit module exploits an unauthenticated di
+2-PRO 4-VUL threatmeter oracle glassfish_server 4.1 directory_traversal this metasploit module exploits an unauthenticated di
+2-VER 1-PRO threatmeter chrome v8 keyaccumulator bug
+0-PRO 5-VUL linux vulnerability could lead to ddos_attacks scmagazine
+13-VER 7-PRO cve-2016-1247 the nginx package before_1.6.2-5 deb8u3 on debian jessie and the nginx packages before_1.4.6-1ubuntu
+4-VER 7-PRO cve-2016-1247 the nginx package before_1.6.2-5 deb8u3 on debian jessie and the nginx packages before_1.4.6-1ubuntu
+9-VER 8-PRO cybersecurity report windows 10 is less secure than windows 7 with emet infosec
+9-VER 2-PRO cybersecurity report windows 10 is less secure than windows 7 with emet infosec
+3-VER 8-PRO cybersecurity report windows 10 is less secure than windows 7 with emet infosec
+3-VER 2-PRO cybersecurity report windows 10 is less secure than windows 7 with emet infosec
+4-VER 1-PRO threatmeter apache_tomcat 6.0.x_lt_6.0.48_7.0.x_lt_7.0.73 8.0.x lt_8.0.39_8.5.x_lt_8.5.8 multiple vulnerabiliti
+2-VER 1-PRO threatmeter apache_tomcat 6.0.x_lt_6.0.48_7.0.x_lt_7.0.73 8.0.x lt_8.0.39_8.5.x_lt_8.5.8 multiple vulnerabiliti
+6-ORG 1-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+6-ORG 9-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+6-ORG 3-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+6-ORG 7-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+0-ORG 1-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+0-ORG 9-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+0-ORG 3-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+0-ORG 7-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+1-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+9-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+3-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+7-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability redhat jboss_enterprise web server 2.1 de
+1-VER 0-PRO chrome v8 keyaccumulator bug packetstorm
+8-VER 7-PRO cve-2017-7518 a flaw was found in the linux_kernel before_version_4.12 in the way the kvm module processed the trap
+14-ORG 0-PRO rhel 6 samba4 rhsa-2018:1883 nessus plugin id 110604 with low severity synopsis the remote red_hat host is
+1-VER 0-PRO rhel 6 samba4 rhsa-2018:1883 nessus plugin id 110604 with low severity synopsis the remote red_hat host is
+1-ORG 2-PRO threatmeter oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity syn
+3-VER 2-PRO threatmeter oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity syn
+2-PRO 6-VUL threatmeter oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity syn
+1-VER 0-PRO windows 10 anniversary update with ransomware protection
+0-ORG 1-PRO microsoft windows scf file feature bypass
+1-PRO 4-VUL dos windows speech recognition buffer_overflow exploitdb
+1-VER 0-PRO rhel 6 pcs rhsa-2018:1927 nessus
+0-ORG 1-PRO oracle linux 7 git elsa-2018-1957
+2-VER 1-PRO oracle linux 7 git elsa-2018-1957
+8-VER 7-PRO cve-2016-9191 the cgroup offline implementation in the linux_kernel through_4.8.11 mishandles certain drain operat
+7-ORG 8-PRO study warns of rising hacker threats to sap_oracle software news
+5-ORG 6-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+5-ORG 12-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+5-ORG 8-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+13-VER 6-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+13-VER 12-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+13-VER 8-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+9-VER 6-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+9-VER 12-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+9-VER 8-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+7-VER 6-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+7-VER 12-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+7-VER 8-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+11-VER 6-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+11-VER 12-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+11-VER 8-PRO cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 windows 7_sp1
+6-PRO 2-VUL cve-2018-8396 an information_disclosure_vulnerability exists when the windows gdi component improperly discloses th
+1-ORG 2-PRO dos microsoft internet_explorer 9 mshtml cdisp node::insert sibling node use-after-free ms13 exploitdb
+3-VER 2-PRO dos microsoft internet_explorer 9 mshtml cdisp node::insert sibling node use-after-free ms13 exploitdb
+2-PRO 9-VUL dos microsoft internet_explorer 9 mshtml cdisp node::insert sibling node use-after-free ms13 exploitdb
+3-VER 0-PRO ubuntu 3691-1 openjdk 7 vulnerabilities several security issues were fixed in infosec
+3-VER 2-PRO ubuntu 3691-1 openjdk 7 vulnerabilities several security issues were fixed in infosec
+1-ORG 4-PRO threatmeter microsoft update left azure_linux virtual machines open to hacking
+6-PRO 5-VUL suse_sles12 security update xen suse-su-2018:1658-1 meltdown_spectre nessus plugin id 110509 with medium
+0-PRO 5-VUL suse_sles12 security update xen suse-su-2018:1658-1 meltdown_spectre nessus plugin id 110509 with medium
+2-PRO 5-VUL threatmeter dos windows speech recognition buffer_overflow
+6-VER 1-PRO scientific linux security update kernel on sl6.x_i386_x86_64 foreshadow nessus
+6-VER 4-PRO scientific linux security update kernel on sl6.x_i386_x86_64 foreshadow nessus
+1-VER 0-PRO rhel 6 flash-plugin rhsa-2018:1827
+1-VER 0-PRO ubuntu 18.04_lts linux-raspi2 vulnerabilities usn-3678-4 nessus
+2-VER 1-PRO 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+1-PRO 4-VUL 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+1-ORG 2-PRO glsa-201806-02 adobe flash_player multiple vulnerabilities nessus plugin id 110523 with medium severity
+3-VER 2-PRO is your windows 10 migration strategy leaving you vulnerable
+5-PRO 3-VUL atombombing brand new code_injection for windows
+2-PRO 3-VUL threatmeter vigilnce jboss_enterprise_application_platform buffer_overflow via reverse proxy
+1-VER 0-PRO centos 6 ding-libs sssd cesa-2018:1877 nessus plugin id 110647 with medium severity synopsis the remote
+1-PRO 4-VUL vuln linux_kernel mm memory.c local_code_execution_vulnerability kernel-rt_2.6.22linux ker
+5-PRO 4-VUL vuln linux_kernel mm memory.c local_code_execution_vulnerability kernel-rt_2.6.22linux ker
+1-PRO 3-VUL vuln linux_kernel cve-2016-9755 out_of_bounds_write_security_vulnerability linux_kernel cve-2016-9755 infosec
+4-PRO 3-VUL vuln linux_kernel cve-2016-9755 out_of_bounds_write_security_vulnerability linux_kernel cve-2016-9755 infosec
+2-VER 1-PRO shellcode linux x86 netcat -e option disabled reverse_shell_shellcode 180 bytes
+1-PRO 0-VUL shellcode linux x86 netcat -e option disabled reverse_shell_shellcode 180 bytes
+1-PRO 7-VUL shellcode linux x86 netcat -e option disabled reverse_shell_shellcode 180 bytes
+1-ORG 5-PRO cybersecurity adobe quietly bundles data-collecting chrome extension with latest reader update infosec
+1-ORG 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues
+3-VER 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues
+2-ORG 3-PRO rt csfi_dcoe microsoft windows zero-day vulnerability disclosed through twitter zdnet
+6-ORG 9-PRO cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+8-ORG 9-PRO cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+11-VER 9-PRO cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+9-PRO 1-VUL cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+8-VER 7-PRO cve-2016-9083 drivers vfio pci vfio_pci.c in the linux_kernel through_4.8.11 allows_local_users_to_bypass integer
+7-PRO 9-VUL cve-2016-9083 drivers vfio pci vfio_pci.c in the linux_kernel through_4.8.11 allows_local_users_to_bypass integer
+4-ORG 10-PRO rt gossithedog speaking of microsoft 0day here s a new office code_execution technique all versions which ms aren t planning to
+10-PRO 11-VUL rt gossithedog speaking of microsoft 0day here s a new office code_execution technique all versions which ms aren t planning to
+2-VER 1-PRO 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation privileg 0day exploit
+2-VER 3-PRO 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation privileg 0day exploit
+1-PRO 7-VUL 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation privileg 0day exploit
+3-PRO 7-VUL 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation privileg 0day exploit
+2-ORG 3-PRO threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+7-VER 3-PRO threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+3-PRO 8-VUL threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+2-ORG 8-PRO security readings adobe issues patch for actively exploited flash_player zero see more
+1-ORG 2-PRO dos microsoft internet_explorer 9 mshtml celement::has flag memory_corruption exploitdb
+3-VER 2-PRO dos microsoft internet_explorer 9 mshtml celement::has flag memory_corruption exploitdb
+2-PRO 7-VUL dos microsoft internet_explorer 9 mshtml celement::has flag memory_corruption exploitdb
+14-ORG 0-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1974 nessus plugin id 110692 with medium severity synopsis the remote red_hat
+14-ORG 2-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1974 nessus plugin id 110692 with medium severity synopsis the remote red_hat
+1-VER 0-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1974 nessus plugin id 110692 with medium severity synopsis the remote red_hat
+1-VER 2-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1974 nessus plugin id 110692 with medium severity synopsis the remote red_hat
+0-ORG 1-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+0-ORG 3-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+4-VER 1-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+4-VER 3-PRO redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+1-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+3-PRO 5-VUL redhat jboss_enterprise web server 2.1 denial_of_service_vulnerability
+6-PRO 2-VUL security hacking ransack_campaigns target hadoop and couchdb
+4-PRO 2-VUL security hacking ransack_campaigns target hadoop and couchdb
+1-VER 0-PRO centos 6 java-1.8.0-openjdk cesa-2018:2241 nessus plugin id 111355 with medium severity synopsis the remote
+1-VER 2-PRO centos 6 java-1.8.0-openjdk cesa-2018:2241 nessus plugin id 111355 with medium severity synopsis the remote
+3-ORG 1-PRO update flash and adobe acrobat now
+3-ORG 4-PRO update flash and adobe acrobat now
+5-VER 1-PRO cve-2018-1332 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose a vul
+3-VER 1-PRO cve-2018-1332 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose a vul
+10-VER 1-PRO cve-2018-1332 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose a vul
+9-VER 8-PRO cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+9-VER 3-PRO cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+8-PRO 1-VUL cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+8-PRO 10-VUL cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+3-PRO 1-VUL cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+3-PRO 10-VUL cve-2017-6001 race_condition in kernel events core.c in the linux_kernel before_4.9.7 allows_local_users_to gain p
+1-PRO 2-VUL 5-year-old linux_kernel local_privilege_escalation_flaw discovered
+2-VER 1-PRO threatmeter rhel 6 xmlrpc3 rhsa-2018:1779 nessus plugin id 110280 with high severity synopsis the remote red
+2-ORG 9-PRO threatmeter webapps oracle weblogic 12.1.2.0 rmi registry unicastref object java deserialization_remote_code e
+4-VER 9-PRO threatmeter webapps oracle weblogic 12.1.2.0 rmi registry unicastref object java deserialization_remote_code e
+9-PRO 10-VUL threatmeter webapps oracle weblogic 12.1.2.0 rmi registry unicastref object java deserialization_remote_code e
+1-ORG 2-PRO dos adobe flash avc processing out-of-bounds_read exploitdb
+2-PRO 5-VUL dos adobe flash avc processing out-of-bounds_read exploitdb
+2-VER 1-PRO threatmeter linux_kernel up_to_4.9.9 net ipv4 ip_sockglue.c ipv4_pktinfo_prepare denial_of_service
+1-PRO 7-VUL threatmeter linux_kernel up_to_4.9.9 net ipv4 ip_sockglue.c ipv4_pktinfo_prepare denial_of_service
+2-VER 1-PRO kb4284860 windows 10 june 2018 security update nessus plugin id 110489 with high severity synopsis the remote
+4-PRO 2-VUL security hacking killdisk_malware targets linux machines
+5-ORG 7-PRO cybersecurity critical flaw in pricewaterhousecoopers sap security tool but pwc tries downplay it infosec
+6-PRO 2-VUL cve-2018-8394 an information_disclosure_vulnerability exists when the windows gdi component improperly discloses th
+8-VER 7-PRO researcher leveraged app paths to bypass_user_account_control in windows 10 the security expert matt infosec
+7-PRO 5-VUL researcher leveraged app paths to bypass_user_account_control in windows 10 the security expert matt infosec
+4-VER 0-PRO joomla jcart for opencart 2.0 sql_injection
+0-PRO 5-VUL joomla jcart for opencart 2.0 sql_injection
+2-VER 1-PRO 0daytoday chrome v8 keyaccumulator bug exploit dos_exploits 0day exploit
+1-PRO 6-VUL 0daytoday chrome v8 keyaccumulator bug exploit dos_exploits 0day exploit
+0-ORG 1-PRO microsoft excel bugs let remote users obtain_potentially_sensitive_information and execute_arbitrary_code on the
+1-PRO 6-VUL microsoft excel bugs let remote users obtain_potentially_sensitive_information and execute_arbitrary_code on the
+1-PRO 8-VUL microsoft excel bugs let remote users obtain_potentially_sensitive_information and execute_arbitrary_code on the
+11-PRO 12-VUL bugtraq security bulletin hpsbgn03677 rev.1 hpe network automation using rpcservlet and java deserialization_remote_code_execution
+1-ORG 2-PRO threatmeter microsoft windows_enterprise mode site list v 1 2 xml_external_entity_injection
+2-PRO 9-VUL threatmeter microsoft windows_enterprise mode site list v 1 2 xml_external_entity_injection
+1-ORG 2-PRO cve-2016-7878 adobe flash_player versions 23.0.0.207_and_earlier_11.2.202.644_and_earlier have an exploitable use
+4-VER 2-PRO cve-2016-7878 adobe flash_player versions 23.0.0.207_and_earlier_11.2.202.644_and_earlier have an exploitable use
+6-ORG 7-PRO threatmeter cve-2018-8248 a remote_code_execution_vulnerability exists in microsoft excel software when the softw
+7-PRO 3-VUL threatmeter cve-2018-8248 a remote_code_execution_vulnerability exists in microsoft excel software when the softw
+2-ORG 3-PRO threatmeter 0daytoday google chrome integer_overflow when processing webassembly locals exploit 0day
+3-PRO 4-VUL threatmeter 0daytoday google chrome integer_overflow when processing webassembly locals exploit 0day
+4-VER 3-PRO tips to prevent office 365 data loss as a result of ransomware
+1-PRO 5-VUL 0daytoday windows uac_protection_bypass via slui file_handler_hijack_exploit 0day exploit
+1-PRO 2-VUL 0daytoday windows uac_protection_bypass via slui file_handler_hijack_exploit 0day exploit
+9-PRO 8-VUL press shift f10 during windows10 upgrade to launch root_cli amp bypass bitlocker
+4-PRO 8-VUL press shift f10 during windows10 upgrade to launch root_cli amp bypass bitlocker
+11-PRO 8-VUL press shift f10 during windows10 upgrade to launch root_cli amp bypass bitlocker
+8-PRO 6-VUL rt campuscodi tokenvator a tool to elevate_privilege using windows
+4-PRO 6-VUL rt campuscodi tokenvator a tool to elevate_privilege using windows
+9-ORG 2-PRO microsoft released windows 10 cumulative updates kb4345421 amp kb4345420 microsoft has just released new infosec
+0-ORG 2-PRO microsoft released windows 10 cumulative updates kb4345421 amp kb4345420 microsoft has just released new infosec
+3-VER 2-PRO microsoft released windows 10 cumulative updates kb4345421 amp kb4345420 microsoft has just released new infosec
+0-ORG 9-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+0-ORG 4-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+0-ORG 2-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+5-VER 9-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+5-VER 4-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+5-VER 2-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+3-VER 9-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+3-VER 4-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+3-VER 2-PRO microsoft released windows 7 amp 8.1 cumulative updates kb4345459 amp kb4345424 if you re still running infosec
+0-PRO 5-VUL linux arm reverse_shell tcp 4444 shellcode packetstorm
+0-PRO 2-VUL linux arm reverse_shell tcp 4444 shellcode packetstorm
+9-ORG 1-PRO adobe flash_player flaws remain the most used by exploit adobe ek hacking
+0-ORG 1-PRO adobe flash_player flaws remain the most used by exploit adobe ek hacking
+0-ORG 1-PRO microsoft .net multiple flaws let remote users execute_arbitrary_code and local users bypass security and gain
+1-PRO 7-VUL microsoft .net multiple flaws let remote users execute_arbitrary_code and local users bypass security and gain
+0-PRO 9-VUL windows http protocol stack http.sys bugs let remote users deny_service and execute_arbitrary_code
+0-PRO 11-VUL windows http protocol stack http.sys bugs let remote users deny_service and execute_arbitrary_code
+1-VER 0-PRO ubuntu 14.04_lts_16.04_lts jasper vulnerabilities usn-3693-1
+2-VER 1-PRO threatmeter dbd-mysql up_to_3.x_4.040 on perl mysql_server_prepare 1 use-after-free_buffer_overflow
+1-PRO 7-VUL threatmeter dbd-mysql up_to_3.x_4.040 on perl mysql_server_prepare 1 use-after-free_buffer_overflow
+0-ORG 1-PRO adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass security restri
+1-PRO 7-VUL adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass security restri
+1-ORG 2-PRO attacking microsoft office_amp_openoffice with metasploit macro exploits
+8-VER 7-PRO cve-2018-14734 drivers infiniband core ucma.c in the linux_kernel through_4.17.11 allows ucma_leave_multicast to ac
+14-VER 13-PRO threatmeter cve-2016-9644 the _get_user_asm_ex macro in arch x86 include asm uaccess.h in the linux_kernel 4.4.2
+7-VER 13-PRO threatmeter cve-2016-9644 the _get_user_asm_ex macro in arch x86 include asm uaccess.h in the linux_kernel 4.4.2
+1-ORG 2-PRO 0daytoday microsoft windows 10 child_process_restriction_mitigation_bypass_exploit 0day exploit
+3-VER 2-PRO 0daytoday microsoft windows 10 child_process_restriction_mitigation_bypass_exploit 0day exploit
+2-PRO 4-VUL 0daytoday microsoft windows 10 child_process_restriction_mitigation_bypass_exploit 0day exploit
+2-VER 1-PRO threatmeter rhel 6 glibc rhsa-2018:1879 nessus plugin id 110603 with high severity synopsis the remote red ha
+11-VER 10-PRO rt cyberexaminer cybersecurity researcher leveraged app paths to bypass_user_account_control in windows 10 info
+10-PRO 8-VUL rt cyberexaminer cybersecurity researcher leveraged app paths to bypass_user_account_control in windows 10 info
+14-ORG 0-PRO rhel 6 glusterfs rhsa-2018:1955 nessus plugin id 110631 with high severity synopsis the remote red_hat host
+1-VER 0-PRO rhel 6 glusterfs rhsa-2018:1955 nessus plugin id 110631 with high severity synopsis the remote red_hat host
+1-ORG 2-PRO update google chrome immediately to patch a high severity vulnerability
+10-VER 6-PRO cve-2015-1328 the overlayfs implementation in the linux aka linux_kernel package before_3.19.0-21.21 in ubuntu t
+10-VER 12-PRO cve-2015-1328 the overlayfs implementation in the linux aka linux_kernel package before_3.19.0-21.21 in ubuntu t
+10-VER 8-PRO cve-2015-1328 the overlayfs implementation in the linux aka linux_kernel package before_3.19.0-21.21 in ubuntu t
+2-PRO 3-VUL threatmeter 0daytoday windows uac_protection_bypass via slui file handler hijack exploit 0day exploit
+1-ORG 6-PRO vuln red_hat ceph cve-2016-8626 remote_denial_of_service_vulnerability hat ceph cve-2016-8626 remote denial
+1-ORG 2-PRO vuln red_hat ceph cve-2016-8626 remote_denial_of_service_vulnerability hat ceph cve-2016-8626 remote denial
+6-PRO 4-VUL vuln red_hat ceph cve-2016-8626 remote_denial_of_service_vulnerability hat ceph cve-2016-8626 remote denial
+2-PRO 4-VUL vuln red_hat ceph cve-2016-8626 remote_denial_of_service_vulnerability hat ceph cve-2016-8626 remote denial
+1-PRO 3-VUL vuln apache_kafka cve-2017-12610 user_impersonation_vulnerability apache_kafka cve-2017-12610 user impersonation
+4-PRO 3-VUL vuln apache_kafka cve-2017-12610 user_impersonation_vulnerability apache_kafka cve-2017-12610 user impersonation
+2-ORG 3-PRO threatmeter cve-2017-2929 adobe acrobat_chrome extension version 15.1.0.3 and earlier have a dom-based cross-site
+6-VER 3-PRO threatmeter cve-2017-2929 adobe acrobat_chrome extension version 15.1.0.3 and earlier have a dom-based cross-site
+1-VER 0-PRO centos 6 squid34 cesa-2017:0183
+1-ORG 2-PRO threatmeter adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass se
+2-PRO 8-VUL threatmeter adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass se
+4-VER 16-PRO how to harden ubuntu_server 16.04 security in five steps if you re ready to take your ubuntu_server infosec
+4-VER 3-PRO how to harden ubuntu_server 16.04 security in five steps if you re ready to take your ubuntu_server infosec
+1-VER 0-PRO ubuntu 14.04_lts_16.04_lts_16.10 python crypto regression usn-3199-2
+7-ORG 8-PRO cve-2017-15425 insufficient policy enforcement in omnibox in google chrome prior_to_63.0.3239.84 allowed a remote a
+9-VER 8-PRO cve-2017-15425 insufficient policy enforcement in omnibox in google chrome prior_to_63.0.3239.84 allowed a remote a
+1-PRO 4-VUL threatmeter splunk rest endpoint lets_remote_users_obtain_potentially_sensitive_information on the target system
+1-VER 0-PRO ubuntu 16.04_lts linux_linux-aws linux-kvm linux-raspi2 linux-snapdragon vulnerabilities usn-3676-1
+1-VER 2-PRO ubuntu 16.04_lts linux_linux-aws linux-kvm linux-raspi2 linux-snapdragon vulnerabilities usn-3676-1
+3-VER 2-PRO vulnerability security linux_kernel 2.6.32-642_3.16.0-4 inode integer_overflow
+2-PRO 5-VUL vulnerability security linux_kernel 2.6.32-642_3.16.0-4 inode integer_overflow
+2-VER 1-PRO threatmeter linux_kernel up_to_4.5 ion.c ion_ioctl privilege_escalation
+1-PRO 5-VUL threatmeter linux_kernel up_to_4.5 ion.c ion_ioctl privilege_escalation
+1-VER 0-PRO chrome v8 keyaccumulator bug
+0-ORG 1-PRO mcafee virusscan_enterprise lt 8.8 patch 11 privilege_escalation_vulnerability sb10237 nessus plugin id 110272
+3-VER 1-PRO mcafee virusscan_enterprise lt 8.8 patch 11 privilege_escalation_vulnerability sb10237 nessus plugin id 110272
+1-PRO 6-VUL mcafee virusscan_enterprise lt 8.8 patch 11 privilege_escalation_vulnerability sb10237 nessus plugin id 110272
+8-PRO 9-VUL vulnerability security bugtraq cve-2016-8741 apache qpid broker for java information_leakage
+4-PRO 9-VUL vulnerability security bugtraq cve-2016-8741 apache qpid broker for java information_leakage
+0-ORG 6-PRO adobe issues over 100 patches for flash_acrobat and reader threatpost
+0-ORG 1-PRO oracle linux 6_7 unbreakable enterprise kernel elsa-2018-4164 nessus plugin id 110998 with high severity
+2-VER 1-PRO oracle linux 6_7 unbreakable enterprise kernel elsa-2018-4164 nessus plugin id 110998 with high severity
+4-PRO 9-VUL vulnerability note vu 962459 linux_kernel tcp implementation vulnerable to denial_of_service
+1-VER 0-PRO centos 6 yum-utils cesa-2018:2284 nessus
+1-VER 14-PRO centos 6 samba4 cesa-2018:1883 nessus plugin id 110649 with low severity synopsis the remote centos host is
+1-VER 0-PRO centos 6 samba4 cesa-2018:1883 nessus plugin id 110649 with low severity synopsis the remote centos host is
+1-VER 0-PRO rhel 7 openjpeg rhsa-2017:0838
+0-PRO 6-VUL apache_struts cve-2018-11776 results with no namespace remote_code_execution s2-057 remote nessus
+0-ORG 1-PRO microsoft internet_explorer object memory_handling and validation_flaws let remote users execute_arbitrary_code
+1-PRO 5-VUL microsoft internet_explorer object memory_handling and validation_flaws let remote users execute_arbitrary_code
+1-PRO 9-VUL microsoft internet_explorer object memory_handling and validation_flaws let remote users execute_arbitrary_code
+1-PRO 3-VUL microsoft internet_explorer object memory_handling and validation_flaws let remote users execute_arbitrary_code
+4-PRO 2-VUL rt globalcyberalln phishing_campaign on office365 business users leverages punycode
+1-VER 0-PRO linux_kernel 3.0.2 denial_of_service_overflow_vulnerability the team mailing lists advertising info
+0-PRO 2-VUL linux_kernel 3.0.2 denial_of_service_overflow_vulnerability the team mailing lists advertising info
+16-ORG 1-PRO google chrome bug allows hackers to steal personal data through a victims open facebook to all google infosec
+0-ORG 1-PRO google chrome bug allows hackers to steal personal data through a victims open facebook to all google infosec
+6-PRO 2-VUL cve-2018-8398 an information_disclosure_vulnerability exists when the windows gdi component improperly discloses th
+6-VER 5-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+6-VER 11-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+6-VER 2-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+3-VER 5-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+3-VER 11-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+3-VER 2-PRO threatmeter kb4284867 windows 7 and windows_server 2008_r2 june 2018 security update nessus plugin id 110486 wit
+3-ORG 4-PRO a vulnerability in google chrome could allow for arbitrary_code_execution rss generated with fetchrss
+4-PRO 8-VUL a vulnerability in google chrome could allow for arbitrary_code_execution rss generated with fetchrss
+0-ORG 1-PRO microsoft internet_explorer 9 ieframe cmarkuppointer::movetogap use-after-free
+2-VER 1-PRO microsoft internet_explorer 9 ieframe cmarkuppointer::movetogap use-after-free
+1-PRO 5-VUL microsoft internet_explorer 9 ieframe cmarkuppointer::movetogap use-after-free
+2-ORG 3-PRO bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read bugtraq
+4-VER 3-PRO bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read bugtraq
+3-PRO 8-VUL bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read bugtraq
+1-VER 0-PRO suse sled12 security update zziplib suse-su-2018:1507-1 nessus plugin id 110342 with medium severity synopsis
+8-ORG 2-PRO adobe patches flash zero-day exploited in targeted attacks adobe has patched vulnerabilities in nine of infosec
+0-ORG 2-PRO adobe patches flash zero-day exploited in targeted attacks adobe has patched vulnerabilities in nine of infosec
+2-ORG 3-PRO threatmeter ms16-136 microsoft sql_server analysis services information_disclosure 3199641
+3-PRO 6-VUL threatmeter ms16-136 microsoft sql_server analysis services information_disclosure 3199641
+1-PRO 4-VUL vuln openstack glance cve-2017-7200 security_bypass_vulnerability glance cve-2017-7200 security_bypass
+1-PRO 7-VUL vuln openstack glance cve-2017-7200 security_bypass_vulnerability glance cve-2017-7200 security_bypass
+1-ORG 2-PRO cve-2017-2999 adobe flash_player versions 24.0.0.221_and_earlier have an exploitable memory_corruption_vulnerabili
+4-VER 2-PRO cve-2017-2999 adobe flash_player versions 24.0.0.221_and_earlier have an exploitable memory_corruption_vulnerabili
+2-PRO 8-VUL cve-2017-2999 adobe flash_player versions 24.0.0.221_and_earlier have an exploitable memory_corruption_vulnerabili
+4-VER 6-PRO threatmeter na cve-2016-10126 splunk web in splunk_enterprise 5.0.x before
+4-VER 3-PRO threatmeter na cve-2016-10126 splunk web in splunk_enterprise 5.0.x before
+1-ORG 11-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+1-ORG 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+10-ORG 11-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+10-ORG 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+12-VER 11-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+12-VER 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+3-VER 11-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+3-VER 2-PRO threatmeter microsoft windows 10 scrrun.dll active-x creation deletion issues topic microsoft windows 10 scrru
+8-PRO 5-VUL certpa certeu a wave of ransom_attacks is targeting mysql_databases_mysql
+2-VER 1-PRO threatmeter chrome 55 now available loads html5 over flash by default drastically reduces ram usage
+2-VER 8-PRO threatmeter chrome 55 now available loads html5 over flash by default drastically reduces ram usage
+5-VER 4-PRO rt cujounited phishing_campaign on office 365 business users leverages punycode via securityaffairs iot
+4-PRO 2-VUL rt cujounited phishing_campaign on office 365 business users leverages punycode via securityaffairs iot
+2-ORG 5-PRO patch now oracle patches critical java vm vuln in key database products
+5-VER 1-PRO cve-2018-8020 apache_tomcat native 1.2.0_to_1.2.16 and 1.1.23_to_1.1.34 has a flaw that does not properly check
+3-VER 1-PRO cve-2018-8020 apache_tomcat native 1.2.0_to_1.2.16 and 1.1.23_to_1.1.34 has a flaw that does not properly check
+1-VER 0-PRO linux_ntpd 4.2.8 derive_nonce_stack_overflow
+0-PRO 2-VUL linux_ntpd 4.2.8 derive_nonce_stack_overflow
+1-ORG 2-PRO vuln adobe flash_player cve-2018-12825 unspecified_security_bypass_vulnerability bugtraq
+2-PRO 4-VUL vuln adobe flash_player cve-2018-12825 unspecified_security_bypass_vulnerability bugtraq
+6-ORG 11-PRO hundreds of registry keys exposed to microsoft com hijacking microsoft com windows by kellymsheridan
+9-ORG 11-PRO hundreds of registry keys exposed to microsoft com hijacking microsoft com windows by kellymsheridan
+4-PRO 1-VUL zerofont phishing_attack can bypass office_365 protections zerofont phishing_attack crooks are using a infosec
+4-PRO 7-VUL zerofont phishing_attack can bypass office_365 protections zerofont phishing_attack crooks are using a infosec
+4-PRO 1-VUL zerofont phishing_attack can bypass office_365 protections securityaffairs cybercrime
+1-ORG 2-PRO cve-2017-2991 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable memory_corruption_vulnerabili
+4-VER 2-PRO cve-2017-2991 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable memory_corruption_vulnerabili
+2-PRO 8-VUL cve-2017-2991 adobe flash_player versions 24.0.0.194_and_earlier have an exploitable memory_corruption_vulnerabili
+1-ORG 2-PRO threatmeter oracle linux 6 procps elsa-2018-1777 nessus plugin id 110276 with high severity synopsis the remo
+3-VER 2-PRO threatmeter oracle linux 6 procps elsa-2018-1777 nessus plugin id 110276 with high severity synopsis the remo
+5-ORG 6-PRO cve-2018-8379 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+6-PRO 2-VUL cve-2018-8379 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+2-ORG 3-PRO threatmeter 0daytoday microsoft windows 10 scrrun.dll active-x creation deletion issues exploit 0day
+4-VER 3-PRO threatmeter 0daytoday microsoft windows 10 scrrun.dll active-x creation deletion issues exploit 0day
+1-ORG 2-PRO 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+6-VER 2-PRO 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+2-PRO 7-VUL 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+1-VER 0-PRO linux_kernel up_to_4.4.22 uaccess.h _get_user_asm_ex privilege_escalation
+0-PRO 4-VUL linux_kernel up_to_4.4.22 uaccess.h _get_user_asm_ex privilege_escalation
+1-ORG 2-PRO threatmeter microsoft windows uniscribe usp10 buildfsm memory_corruption
+2-PRO 6-VUL threatmeter microsoft windows uniscribe usp10 buildfsm memory_corruption
+4-ORG 2-PRO pwc ace software for sap security 8.10.304 abap injection advisory
+6-VER 2-PRO pwc ace software for sap security 8.10.304 abap injection advisory
+4-PRO 8-VUL threatmeter vuln multiple f-secure windows endpoint protection products arbitrary_code_execution_vulnerability m
+0-PRO 7-VUL windows font library embedded font processing flaw lets_remote_users_execute_arbitrary_code
+1-VER 0-PRO linux_ntpd 4.2.8 derive_nonce_stack_overflow
+0-PRO 2-VUL linux_ntpd 4.2.8 derive_nonce_stack_overflow
+15-ORG 0-PRO rhel 6 kernel rhsa-2018:2164 spectre nessus plugin id 111001 with high severity synopsis the remote red_hat
+1-VER 0-PRO rhel 6 kernel rhsa-2018:2164 spectre nessus plugin id 111001 with high severity synopsis the remote red_hat
+0-PRO 4-VUL rhel 6 kernel rhsa-2018:2164 spectre nessus plugin id 111001 with high severity synopsis the remote red_hat
+3-PRO 5-VUL vulnerability security vuln apache httpcomponents incomplete_fix cve-2014-3577 ssl_validation_security_bypass
+3-PRO 7-VUL vulnerability security vuln apache httpcomponents incomplete_fix cve-2014-3577 ssl_validation_security_bypass
+1-ORG 2-PRO bugtraq google chrome accessibility blink::node corruption details bugtraq
+2-VER 1-PRO 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+1-PRO 4-VUL 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+9-PRO 10-VUL rt uid1000 here s a poc for cve-2017-18344 a linux_kernel arbitrary-read_vulnerability in the timer
+5-ORG 6-PRO cve-2018-8375 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+6-PRO 2-VUL cve-2018-8375 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+1-VER 0-PRO fedora 27 nodejs-jsv nodejs-uri-js 2018-13e08f4b4a nessus plugin id 110574 with high severity synopsis the
+1-PRO 13-VUL 0daytoday linux arm read 0 buf 0xff stager execve bin sh null null shellcode 28 bytes
+0-ORG 1-PRO oracle openjdk_runtime_environment build 1.8.0_112-b15 denial_of_service
+3-VER 1-PRO oracle openjdk_runtime_environment build 1.8.0_112-b15 denial_of_service
+1-PRO 4-VUL oracle openjdk_runtime_environment build 1.8.0_112-b15 denial_of_service
+1-ORG 2-PRO update google chrome immediately to patch a high severity vulnerability thehackernews
+4-PRO 1-VUL zerofont phishing_attack can bypass office_365 protections securityaffairs cybercrime
+2-VER 1-PRO threatmeter ubuntu 14.04_lts_16.04_lts_16.10 lxc vulnerability usn-3136-1
+5-ORG 11-PRO threatmeter cve-2018-2425 under certain conditions sap business one 9.2_9.3 for sap hana backup service allows
+10-ORG 11-PRO threatmeter cve-2018-2425 under certain conditions sap business one 9.2_9.3 for sap hana backup service allows
+8-VER 11-PRO threatmeter cve-2018-2425 under certain conditions sap business one 9.2_9.3 for sap hana backup service allows
+6-ORG 7-PRO medium cve-2016-5206 the pdf plugin in google chrome prior to
+1-VER 0-PRO rhel 6 sssd and ding-libs rhsa-2018:1877 nessus plugin id 110602 with high severity synopsis the remote red
+0-ORG 8-PRO microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+0-ORG 3-PRO microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+10-ORG 8-PRO microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+10-ORG 3-PRO microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+8-PRO 9-VUL microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+3-PRO 9-VUL microsoft silently fixes kernel bug that led to chrome sandbox_bypass microsoft appears to have silently infosec
+0-ORG 1-PRO oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity synopsis the
+2-VER 1-PRO oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity synopsis the
+1-PRO 5-VUL oracle linux 6 qemu-kvm elsa-2018-2162 spectre nessus plugin id 110995 with medium severity synopsis the
+0-ORG 1-PRO adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass security
+1-PRO 7-VUL adobe flash_player multiple flaws let remote users obtain_potentially_sensitive_information bypass security
+8-PRO 13-VUL rt binitamshah smashing the stack into a reverse_shell_bypassing aslr on windows into a reverse_shell https
+8-PRO 7-VUL rt binitamshah smashing the stack into a reverse_shell_bypassing aslr on windows into a reverse_shell https
+10-PRO 13-VUL rt binitamshah smashing the stack into a reverse_shell_bypassing aslr on windows into a reverse_shell https
+10-PRO 7-VUL rt binitamshah smashing the stack into a reverse_shell_bypassing aslr on windows into a reverse_shell https
+1-PRO 6-VUL shellcode linux mips64 execve bin sh shellcode 48 bytes exploitdb
+1-PRO 0-VUL shellcode linux mips64 execve bin sh shellcode 48 bytes exploitdb
+6-ORG 9-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+6-ORG 7-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+12-VER 9-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+12-VER 7-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+8-VER 9-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+8-VER 7-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+10-VER 9-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+10-VER 7-PRO threatmeter cve-2016-7219 the crypto driver in microsoft windows_vista sp2 windows_server 2008_sp2 and r2_sp1 w
+4-VER 1-PRO kb4284835 windows 10 version 1803 june 2018 security update nessus plugin id 110487 with high severity synopsis
+2-VER 1-PRO kb4284835 windows 10 version 1803 june 2018 security update nessus plugin id 110487 with high severity synopsis
+4-VER 0-PRO ubuntu security usn-3151-4 linux_kernel_raspberry_pi 2 vulnerability
+4-VER 3-PRO ubuntu security usn-3151-4 linux_kernel_raspberry_pi 2 vulnerability
+2-VER 1-PRO 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation_privileg 0day exploit
+2-VER 3-PRO 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation_privileg 0day exploit
+1-PRO 7-VUL 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation_privileg 0day exploit
+3-PRO 7-VUL 0daytoday windows 10 windows10 desktop bridge activation arbitrary_directory_creation_privileg 0day exploit
+1-ORG 2-PRO vuln microsoft windows lsass buffer_overrun_vulnerability
+2-PRO 4-VUL vuln microsoft windows lsass buffer_overrun_vulnerability
+1-ORG 4-PRO 0daytoday microsoft windows 10 microsoftwindows_windows10 scrrun.dll active-x creation deleti 0day exploit
+1-ORG 2-PRO 0daytoday microsoft windows 10 microsoftwindows_windows10 scrrun.dll active-x creation deleti 0day exploit
+3-VER 4-PRO 0daytoday microsoft windows 10 microsoftwindows_windows10 scrrun.dll active-x creation deleti 0day exploit
+3-VER 2-PRO 0daytoday microsoft windows 10 microsoftwindows_windows10 scrrun.dll active-x creation deleti 0day exploit
+5-VER 2-PRO threatmeter kb4338819 windows 10 version 1803 july 2018 security update nessus plugin id 110983 with high severi
+3-VER 2-PRO threatmeter kb4338819 windows 10 version 1803 july 2018 security update nessus plugin id 110983 with high severi
+2-VER 6-PRO 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+2-VER 1-PRO 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+2-VER 3-PRO 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+6-PRO 8-VUL 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+1-PRO 8-VUL 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+3-PRO 8-VUL 0daytoday linux_kernel 2.6.32-642_3.16.0-4 amp 039 inode amp 039 integer_overflow 0day exploit
+1-VER 0-PRO ubuntu 16.04_lts linux-azure vulnerabilities usn-3678-2
+1-VER 2-PRO ubuntu 16.04_lts linux-azure vulnerabilities usn-3678-2
+9-VER 1-PRO seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+9-VER 7-PRO seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+3-VER 1-PRO seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+3-VER 7-PRO seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+1-PRO 4-VUL seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+1-PRO 10-VUL seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+7-PRO 4-VUL seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+7-PRO 10-VUL seig scada system 9 remote_code_execution topic seig scada system 9 remote_code_execution risk high text
+2-PRO 3-VUL threatmeter local windows uac_protection_bypass via slui file handler hijack metasploit
+2-ORG 3-PRO threatmeter cve-2017-3001 adobe flash_player versions 24.0.0.221_and_earlier have an exploitable use after free v
+5-VER 3-PRO threatmeter cve-2017-3001 adobe flash_player versions 24.0.0.221_and_earlier have an exploitable use after free v
+1-VER 0-PRO centos 7 yum-utils cesa-2018:2285 nessus
+0-ORG 6-PRO adobe issues patch for actively exploited flash_player zero-day exploit thehackernews
+1-VER 0-PRO mysql_enterprise_monitor 3.3.x_lt_3.3.9.3339 3.4.x lt_3.4.7.4296 4.0.x lt_4.0.4.5233 multiple vulnerabi nessus
+3-VER 0-PRO mysql_enterprise_monitor 3.3.x_lt_3.3.9.3339 3.4.x lt_3.4.7.4296 4.0.x lt_4.0.4.5233 multiple vulnerabi nessus
+5-VER 0-PRO mysql_enterprise_monitor 3.3.x_lt_3.3.9.3339 3.4.x lt_3.4.7.4296 4.0.x lt_4.0.4.5233 multiple vulnerabi nessus
+2-VER 1-PRO threatmeter chrome v8 keyaccumulator bug
+2-ORG 3-PRO threatmeter vuln microsoft windows lsass buffer_overrun_vulnerability
+3-PRO 5-VUL threatmeter vuln microsoft windows lsass buffer_overrun_vulnerability
+0-ORG 1-PRO adobe flash_player for mac lt 30.0.0.113 apsb18-24 nessus plugin id 110977 with high severity synopsis the
+5-VER 1-PRO adobe flash_player for mac lt 30.0.0.113 apsb18-24 nessus plugin id 110977 with high severity synopsis the
+1-VER 14-PRO centos 6 glibc cesa-2018:1879 nessus plugin id 110648 with high severity synopsis the remote centos host is
+1-VER 0-PRO centos 6 glibc cesa-2018:1879 nessus plugin id 110648 with high severity synopsis the remote centos host is
+0-ORG 1-PRO oracle linux 6_7 unbreakable enterprise kernel elsa-2018-4126 spectre nessus plugin id 110404 with high
+2-VER 1-PRO oracle linux 6_7 unbreakable enterprise kernel elsa-2018-4126 spectre nessus plugin id 110404 with high
+1-PRO 7-VUL oracle linux 6_7 unbreakable enterprise kernel elsa-2018-4126 spectre nessus plugin id 110404 with high
+9-PRO 2-VUL cve-2018-8397 a remote_code_execution_vulnerability exists in the way that the windows graphics device interface g
+3-PRO 0-VUL remote_execution_vulnerability on lastpass chrome extension found
+0-ORG 5-PRO microsoft update servers left all azure_rhel instances hackable patch proffered pen-tester paid infosec
+1-VER 14-PRO centos 6 pcs cesa-2018:1927 nessus plugin id 110650 with medium severity synopsis the remote centos host is
+1-VER 0-PRO centos 6 pcs cesa-2018:1927 nessus plugin id 110650 with medium severity synopsis the remote centos host is
+5-VER 1-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+5-VER 4-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+5-VER 10-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+2-VER 1-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+2-VER 4-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+2-VER 10-PRO kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 with high
+1-ORG 2-PRO 0daytoday microsoft windows advanced local procedure call alpc local_privilege_escalation exp 0day
+2-PRO 8-VUL 0daytoday microsoft windows advanced local procedure call alpc local_privilege_escalation exp 0day
+7-PRO 3-VUL threatmeter cve-2018-8398 an information_disclosure_vulnerability exists when the windows gdi component improperly
+1-ORG 2-PRO dos microsoft internet_explorer 11 mshtml cpaste command::convert bitmapto png heap-based_buffer_overflow m
+3-VER 2-PRO dos microsoft internet_explorer 11 mshtml cpaste command::convert bitmapto png heap-based_buffer_overflow m
+2-PRO 9-VUL dos microsoft internet_explorer 11 mshtml cpaste command::convert bitmapto png heap-based_buffer_overflow m
+1-VER 0-PRO rhel 7 spice rhsa-2017:0254 nessus
+2-VER 1-PRO cybersecurity windows 7 kb3205394 patches major security vulnerabilities install it now infosec
+13-VER 12-PRO office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+13-VER 0-PRO office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+1-VER 12-PRO office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+1-VER 0-PRO office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+12-PRO 10-VUL office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+0-PRO 10-VUL office 365 business users targeted in punycode-based phishing a new phishing_attack targeting office 365 infosec
+8-VER 7-PRO facebook bb 71 api uxss via ms internet_explorer 11
+9-PRO 3-VUL number of mongodb ransom_attacks peaked 27 000 in a mongodb cybercrime hacking
+2-PRO 3-VUL number of mongodb ransom_attacks peaked 27 000 in a mongodb cybercrime hacking
+0-PRO 5-VUL debian dla-1446-1 intel-microcode security update spectre nessus plugin id 111359 with medium severity
+2-VER 1-PRO 0daytoday linux_kernel 2.6.18 move_pages information_leak_exploit_remote_exploits 0day exploit
+1-PRO 4-VUL 0daytoday linux_kernel 2.6.18 move_pages information_leak_exploit_remote_exploits 0day exploit
+2-VER 1-PRO threatmeter linux_kernel up_to_4.4.1 crypto algif_skcipher.c lrw_crypt denial_of_service
+1-PRO 6-VUL threatmeter linux_kernel up_to_4.4.1 crypto algif_skcipher.c lrw_crypt denial_of_service
+15-ORG 1-PRO threatmeter rhel 6 samba rhsa-2018:1860 nessus plugin id 110601 with low severity synopsis the remote red_hat
+2-VER 1-PRO threatmeter rhel 6 samba rhsa-2018:1860 nessus plugin id 110601 with low severity synopsis the remote red_hat
+0-ORG 1-PRO microsoft azure flaws exposed rhel instances
+0-ORG 4-PRO microsoft azure flaws exposed rhel instances
+10-VER 9-PRO windows settings shortcuts can be abused for code_execution on windows 10
+10-VER 0-PRO windows settings shortcuts can be abused for code_execution on windows 10
+9-PRO 7-VUL windows settings shortcuts can be abused for code_execution on windows 10
+0-PRO 7-VUL windows settings shortcuts can be abused for code_execution on windows 10
+1-PRO 4-VUL vuln linux_kernel kvm emulate.c local_information_disclosure_vulnerability linux_kernel kvm emulate infosec
+5-PRO 4-VUL vuln linux_kernel kvm emulate.c local_information_disclosure_vulnerability linux_kernel kvm emulate infosec
+4-ORG 7-PRO rt hansesecure cve-2018-0824 exploit microsoft com for windows privilege_escalation infosec pentest redteam exploit
+7-PRO 8-VUL rt hansesecure cve-2018-0824 exploit microsoft com for windows privilege_escalation infosec pentest redteam exploit
+1-ORG 2-PRO dos microsoft windows usp10 otllist::insertat uniscribe font processing heap-based_buffer_overflow ms17-0
+2-PRO 8-VUL dos microsoft windows usp10 otllist::insertat uniscribe font processing heap-based_buffer_overflow ms17-0
+1-PRO 8-VUL threatmeter windows font library embedded font processing flaw lets_remote_users_execute_arbitrary_code
+4-ORG 5-PRO critical vulnerability patched in oracle database
+1-ORG 2-PRO vuln oracle peoplesoft_enterprise cs financial aid cve-2018-3076 remote_security_vulnerability bugtraq
+2-PRO 7-VUL vuln oracle peoplesoft_enterprise cs financial aid cve-2018-3076 remote_security_vulnerability bugtraq
+4-VER 6-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+4-VER 1-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+7-VER 6-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+7-VER 1-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+2-VER 6-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+2-VER 1-PRO kb4338814 windows 10 version 1607 and windows_server 2016 july 2018 security update nessus plugin id 110980 with
+0-ORG 1-PRO oracle linux 7 plexus-archiver elsa-2018-1836
+2-VER 1-PRO oracle linux 7 plexus-archiver elsa-2018-1836
+1-ORG 2-PRO threatmeter adobe flash_player for mac lt 30.0.0.113 apsb18-24 nessus plugin id 110977 with high severity synop
+6-VER 2-PRO threatmeter adobe flash_player for mac lt 30.0.0.113 apsb18-24 nessus plugin id 110977 with high severity synop
+6-VER 12-PRO cve-2016-9644 the _get_user_asm_ex macro in arch x86 include asm uaccess.h in the linux_kernel 4.4.22_through_4.4
+13-VER 12-PRO cve-2016-9644 the _get_user_asm_ex macro in arch x86 include asm uaccess.h in the linux_kernel 4.4.22_through_4.4
+9-VER 8-PRO threatmeter cve-2017-7518 a flaw was found in the linux_kernel before_version_4.12 in the way the kvm module proce
+6-VER 5-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+6-VER 11-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+6-VER 2-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+3-VER 5-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+3-VER 11-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+3-VER 2-PRO threatmeter kb4338823 windows 7 and windows_server 2008_r2 july 2018 security update nessus plugin id 110982 wit
+2-VER 1-PRO threatmeter rhel 7 systemd rhsa-2017:0003
+0-ORG 1-PRO microsoft internet_explorer mshtml domimplementation type_confusion_exploit
+1-PRO 4-VUL microsoft internet_explorer mshtml domimplementation type_confusion_exploit
+2-ORG 3-PRO threatmeter glsa-201806-02 adobe flash_player multiple vulnerabilities nessus plugin id 110523 with medium sev
+9-VER 8-PRO threatmeter cve-2018-14616 an issue was discovered in the linux_kernel through_4.17.10 there is a null pointer de
+2-ORG 3-PRO bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read details
+4-VER 3-PRO bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read details
+3-PRO 8-VUL bugtraq cve-2015-0050 microsoft internet_explorer 8 mshtml srunpointer::spanqualifier runtype oob_read details
+1-ORG 8-PRO vuln sap security diagnostic tool unspecified_cross_site_scripting_vulnerability security diagnostic tool un
+1-ORG 4-PRO vuln sap security diagnostic tool unspecified_cross_site_scripting_vulnerability security diagnostic tool un
+8-PRO 5-VUL vuln sap security diagnostic tool unspecified_cross_site_scripting_vulnerability security diagnostic tool un
+4-PRO 5-VUL vuln sap security diagnostic tool unspecified_cross_site_scripting_vulnerability security diagnostic tool un
+6-VER 1-PRO scientific linux security update java-1.8.0-openjdk on sl6.x_i386_x86_64 nessus
+6-VER 4-PRO scientific linux security update java-1.8.0-openjdk on sl6.x_i386_x86_64 nessus
+8-VER 6-PRO cve-2018-14432 in the federation component of openstack keystone before_11.0.4_12.0.0 and 13.0.0 an authenticate
+10-VER 6-PRO cve-2018-14432 in the federation component of openstack keystone before_11.0.4_12.0.0 and 13.0.0 an authenticate
+1-ORG 6-PRO news microsoft update servers left all azure_rhel instances hackable
+2-ORG 3-PRO rt jobyjohn microsoft edge browser vulnerability allowed hackers steal local files via gbhackeron
+6-PRO 5-VUL vuln linux_kernel sound core timer.c local_information_disclosure_vulnerability linux_kernel sound infosec
+1-PRO 5-VUL vuln linux_kernel sound core timer.c local_information_disclosure_vulnerability linux_kernel sound infosec
+1-VER 14-PRO centos 6 libvirt cesa-2018:1929 nessus plugin id 110651 with medium severity synopsis the remote centos host
+1-VER 0-PRO centos 6 libvirt cesa-2018:1929 nessus plugin id 110651 with medium severity synopsis the remote centos host
+4-PRO 1-VUL zerofont phishing_attack can bypass office_365 protections securityaffairs
+11-PRO 5-VUL security update issued after critical rce vulnerable found in core of apache_struts scmagazine
+2-ORG 3-PRO 0daytoday bull ibm aix clusterwatch watchware multiple_vulnerabilities webapps exploits vulnerabilities
+3-PRO 6-VUL 0daytoday bull ibm aix clusterwatch watchware multiple_vulnerabilities webapps exploits vulnerabilities
+2-ORG 3-PRO cyber infosec microsoft windows 10 dos smbv3 tree connect poc
+4-VER 3-PRO cyber infosec microsoft windows 10 dos smbv3 tree connect poc
+7-VER 6-PRO segmentsmack critical tcp vulnerability found in linux 4.9 triggers dos attack recently a infosec
+2-ORG 3-PRO threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+7-VER 3-PRO threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+3-PRO 8-VUL threatmeter 0daytoday oracle glassfish_server open source edition 4.1 path_traversal exploit 0day exploit
+14-ORG 0-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1812 nessus plugin id 110405 with medium severity synopsis the remote red_hat
+14-ORG 2-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1812 nessus plugin id 110405 with medium severity synopsis the remote red_hat
+1-VER 0-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1812 nessus plugin id 110405 with medium severity synopsis the remote red_hat
+1-VER 2-PRO rhel 6 java-1.7.1-ibm rhsa-2018:1812 nessus plugin id 110405 with medium severity synopsis the remote red_hat
+0-ORG 1-PRO microsoft windows scf file feature bypass exploit
+2-ORG 3-PRO exploitdb remote microsoft windows dnslint.exe drive-by download
+11-VER 10-PRO threatmeter cve-2018-5995 the pcpu_embed_first_chunk function in mm percpu.c in the linux_kernel through_4.14.14 a
+4-VER 1-PRO kb4338825 windows 10 version 1709 july 2018 security update nessus plugin id 110984 with high severity synopsis
+2-VER 1-PRO kb4338825 windows 10 version 1709 july 2018 security update nessus plugin id 110984 with high severity synopsis
+1-ORG 4-PRO threatmeter microsoft update left azure_linux virtual machines open to hacking
+1-VER 0-PRO ubuntu 16.04_lts linux_linux-aws linux-kvm linux-raspi2 linux-snapdragon vulnerabilities usn-37 nessus
+1-VER 2-PRO ubuntu 16.04_lts linux_linux-aws linux-kvm linux-raspi2 linux-snapdragon vulnerabilities usn-37 nessus
+1-ORG 2-PRO 0daytoday microsoft internet_explorer 8_9_10_11 mshtml domimplementation type_confusion e 0day exploi
+3-VER 2-PRO 0daytoday microsoft internet_explorer 8_9_10_11 mshtml domimplementation type_confusion e 0day exploi
+2-PRO 6-VUL 0daytoday microsoft internet_explorer 8_9_10_11 mshtml domimplementation type_confusion e 0day exploi
+1-ORG 2-PRO cve-2017-3000 adobe flash_player versions 24.0.0.221 and earlier have a vulnerability in the random number generat
+4-VER 2-PRO cve-2017-3000 adobe flash_player versions 24.0.0.221 and earlier have a vulnerability in the random number generat
+1-ORG 8-PRO bugtraq google chrome accessibility blink::node corruption details google chrome accessibility blink infosec
+1-ORG 2-PRO bugtraq google chrome accessibility blink::node corruption details google chrome accessibility blink infosec
+7-ORG 8-PRO bugtraq google chrome accessibility blink::node corruption details google chrome accessibility blink infosec
+7-ORG 2-PRO bugtraq google chrome accessibility blink::node corruption details google chrome accessibility blink infosec
+12-PRO 9-VUL mirai_malware now targeting windows the isbuzz post this post mirai_malware now targeting windows infosec
+12-PRO 0-VUL mirai_malware now targeting windows the isbuzz post this post mirai_malware now targeting windows infosec
+3-PRO 9-VUL mirai_malware now targeting windows the isbuzz post this post mirai_malware now targeting windows infosec
+3-PRO 0-VUL mirai_malware now targeting windows the isbuzz post this post mirai_malware now targeting windows infosec
+2-VER 1-PRO 0daytoday linux_ntpd 4.2.8 derive_nonce_stack_overflow_exploit_dos_exploits 0day exploit
+1-PRO 3-VUL 0daytoday linux_ntpd 4.2.8 derive_nonce_stack_overflow_exploit_dos_exploits 0day exploit
+2-ORG 3-PRO threatmeter 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl
+3-PRO 4-VUL threatmeter 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl
+1-ORG 2-PRO cve-2018-2435 sap netweaver_enterprise portal from 7.0_to_7.02_7.11_7.20_7.30_7.31_7.40_7.50 does not suffic
+5-VER 2-PRO cve-2018-2435 sap netweaver_enterprise portal from 7.0_to_7.02_7.11_7.20_7.30_7.31_7.40_7.50 does not suffic
+4-ORG 1-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+4-ORG 5-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+0-ORG 1-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+0-ORG 5-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+2-VER 1-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+2-VER 5-PRO google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+1-PRO 3-VUL google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+1-PRO 10-VUL google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+5-PRO 3-VUL google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+5-PRO 10-VUL google chrome 52.0.2743.82 denial_of_service_vulnerability google chrome is prone to a denial_of_service dos vul
+1-PRO 8-VUL threatmeter windows font library embedded font processing flaw lets_remote_users_execute_arbitrary_code
+4-VER 2-PRO threatmeter 0daytoday linux pam 0.6.9 authentication_replay_vulnerability_remote_exploits_vulnerability 0day
+2-PRO 5-VUL threatmeter 0daytoday linux pam 0.6.9 authentication_replay_vulnerability_remote_exploits_vulnerability 0day
+0-ORG 1-PRO adobe flash_player apsb16-39 unspecified_use_after_free_remote_code_execution_vulnerability type vulnerability a
+1-PRO 3-VUL adobe flash_player apsb16-39 unspecified_use_after_free_remote_code_execution_vulnerability type vulnerability a
+1-VER 0-PRO rhel 7 spice rhsa-2017:0254
+3-VER 2-PRO newly discovered windows 10 file format vulnerability allows attackers to bypass os defenses says security resear
+2-VER 1-PRO threatmeter ubuntu 14.04_lts_16.04_lts_16.10 oxide-qt vulnerabilities usn-3133-1
+1-VER 0-PRO windows 10 desktop bridge activation arbitrary_directory_creation_privilege_escalation
+0-PRO 5-VUL windows 10 desktop bridge activation arbitrary_directory_creation_privilege_escalation
+7-VER 6-PRO cve-2016-10088 the sg implementation in the linux_kernel through_4.9 does_not_properly_restrict_write_operations i
+6-PRO 8-VUL cve-2016-10088 the sg implementation in the linux_kernel through_4.9 does_not_properly_restrict_write_operations i
+1-VER 14-PRO centos 6 xmlrpc3 cesa-2018:1779 nessus plugin id 110297 with high severity synopsis the remote centos host is
+1-VER 0-PRO centos 6 xmlrpc3 cesa-2018:1779 nessus plugin id 110297 with high severity synopsis the remote centos host is
+2-ORG 3-PRO threatmeter 0daytoday microsoft windows scf file feature bypass_vulnerability_remote_exploits_vulnerability
+3-PRO 7-VUL threatmeter 0daytoday microsoft windows scf file feature bypass_vulnerability_remote_exploits_vulnerability
+1-VER 0-PRO centos 6 ding-libs sssd cesa-2018:1877
+4-ORG 5-PRO threatmeter a vulnerability in google chrome could allow for arbitrary_code_execution
+5-PRO 9-VUL threatmeter a vulnerability in google chrome could allow for arbitrary_code_execution
+7-PRO 3-VUL threatmeter cve-2018-8396 an information_disclosure_vulnerability exists when the windows gdi component improperly
+10-ORG 3-PRO bugtraq erpscan-16-041 sap netweaver directory creation outside of the jvm sap netweaverversion
+2-ORG 3-PRO bugtraq erpscan-16-041 sap netweaver directory creation outside of the jvm sap netweaverversion
+7-VER 6-PRO want to break into a locked windows 10 device ask cortana cve-2018-8140 windows10
+7-VER 12-PRO want to break into a locked windows 10 device ask cortana cve-2018-8140 windows10
+7-VER 10-PRO want to break into a locked windows 10 device ask cortana cve-2018-8140 windows10
+2-VER 1-PRO threatmeter windows 10 upgrade vulnerability makes any pc super easy to hack
+6-PRO 2-VUL security hacking vawtrak_malware spread via toxic word documents is still a thing apparently
+2-VER 1-PRO threatmeter rhel 6 procps rhsa-2018:1777 nessus plugin id 110279 with high severity synopsis the remote red h
+6-VER 5-PRO threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+6-VER 2-PRO threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+3-VER 5-PRO threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+3-VER 2-PRO threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+5-PRO 11-VUL threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+2-PRO 11-VUL threatmeter cve-2017-7463 jboss_brms 6 and bpm_suite 6_before_6.4.3 are vulnerable to a reflected_xss via artifact
+0-ORG 1-PRO microsoft internet_explorer 11 mshtml cgeneratedcontent::hasgeneratedsvgmarker type_confusion fulldisclosure
+2-VER 1-PRO microsoft internet_explorer 11 mshtml cgeneratedcontent::hasgeneratedsvgmarker type_confusion fulldisclosure
+1-PRO 5-VUL microsoft internet_explorer 11 mshtml cgeneratedcontent::hasgeneratedsvgmarker type_confusion fulldisclosure
+13-VER 9-PRO apache releases important security updates to patch vulnerabilities in tomcat_server versions 7.0.x 8.0.x 8.5.x
+13-VER 0-PRO apache releases important security updates to patch vulnerabilities in tomcat_server versions 7.0.x 8.0.x 8.5.x
+11-VER 9-PRO apache releases important security updates to patch vulnerabilities in tomcat_server versions 7.0.x 8.0.x 8.5.x
+11-VER 0-PRO apache releases important security updates to patch vulnerabilities in tomcat_server versions 7.0.x 8.0.x 8.5.x
+1-VER 0-PRO suse sles12 security update kernel suse-su-2018:1505-1 nessus plugin id 110340 with medium severity synopsis
+0-PRO 3-VUL splunk rest endpoint lets_remote_users_obtain_potentially_sensitive_information on the target system
+2-VER 1-PRO threatmeter linux_kernel 2.6.32-rc1_x86_64 register leak
+0-ORG 1-PRO oracle linux 7 xmlrpc elsa-2018-1780
+2-VER 1-PRO oracle linux 7 xmlrpc elsa-2018-1780
+7-VER 6-PRO spring 2017 new login procedure for windows 7 lab and podium computers at university park campuses tlt clm
+0-ORG 1-PRO oracle vm_virtualbox 5.0.x_lt_5.0.32_5.1.x_lt_5.1.14 multiple_vulnerabilities january 2017 cpu
+2-VER 1-PRO oracle vm_virtualbox 5.0.x_lt_5.0.32_5.1.x_lt_5.1.14 multiple_vulnerabilities january 2017 cpu
+1-PRO 3-VUL oracle vm_virtualbox 5.0.x_lt_5.0.32_5.1.x_lt_5.1.14 multiple_vulnerabilities january 2017 cpu
+4-VER 1-PRO kb4284874 windows 10 version 1703 june 2018 security update nessus plugin id 110490 with high severity synopsis
+2-VER 1-PRO kb4284874 windows 10 version 1703 june 2018 security update nessus plugin id 110490 with high severity synopsis
+10-VER 3-PRO rt 0xdude open mongodb money 4 bad pplmongo3l1t3 sigaint.org 1j4ocbecbantwjlsxlfie7iwjmjghdzgb 193.107.145.20 seen:
+5-VER 1-PRO cve-2018-8008 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose an
+3-VER 1-PRO cve-2018-8008 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose an
+10-VER 1-PRO cve-2018-8008 apache_storm version 1.0.6 and earlier_1.2.1 and earlier and version 1.1.2 and earlier expose an
+7-VER 6-PRO cve-2016-10088 the sg implementation in the linux_kernel through_4.9 does_not_properly_restrict_write_operations i
+6-PRO 8-VUL cve-2016-10088 the sg implementation in the linux_kernel through_4.9 does_not_properly_restrict_write_operations i
+1-ORG 2-PRO cve-2016-7879 adobe flash_player versions 23.0.0.207_and_earlier_11.2.202.644_and_earlier have an exploitable use
+4-VER 2-PRO cve-2016-7879 adobe flash_player versions 23.0.0.207_and_earlier_11.2.202.644_and_earlier have an exploitable use
+2-ORG 10-PRO rt thehackersnews adobe issues security patch update for actively exploited flashplayer zero-day vulnerability cve-2018-5002
+10-VER 9-PRO researchers find that cortana can be used to hack windows 10 pcs
+10-VER 3-PRO researchers find that cortana can be used to hack windows 10 pcs
+6-ORG 8-PRO security news critical flaw in pricewaterhousecoopers sap security tool but pwc tries downplay it
+1-PRO 2-VUL vigilnce linux_kernel use_after_free via complete_emulated_mmio
+10-ORG 8-PRO bugtraq esnc-2041217 critical security vulnerability in pwc ace software for sap security esnc infosec
+1-ORG 2-PRO vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities
+2-PRO 4-VUL vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities

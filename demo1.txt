@@ -1,0 +1,2 @@
+microsoft windows hyper-v cve-2017-0099 remote denial of service vulnerability discoveredmar
+Windows Installer Elevation of Privilege Vulnerability

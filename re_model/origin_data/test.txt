@@ -1,0 +1,252 @@
+1 4 N chrome 55 now blocks flash uses html5 by default
+1 0 Y chrome 55 now blocks flash uses html5 by default
+8 7 Y facebook bb 71 api uxss via ms internet_explorer 11
+5 1 N threatmeter linux_kernel up_to_4.8.6 kvm arch x86 kvm emulate.c x86_decode_insn denial_of_service
+2 1 Y threatmeter linux_kernel up_to_4.8.6 kvm arch x86 kvm emulate.c x86_decode_insn denial_of_service
+1 9 Y threatmeter linux_kernel up_to_4.8.6 kvm arch x86 kvm emulate.c x86_decode_insn denial_of_service
+5 4 Y symantec news update on chrome 53 bug affecting symantec ssl tls certificates
+8 7 Y cybersecurity take control of your privacy in windows 10 infosec
+1 0 Y office 365 phishing_campaign hides malicious urls in sharepoint files
+0 2 Y office 365 phishing_campaign hides malicious urls in sharepoint files
+8 6 Y iqy files used to evade av download_malware via excel
+8 13 Y healthcare firm exposes data on 2m mexicans insecure mongodb installation leads to another data_leak infosec
+1 2 Y 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl 0day
+2 3 Y 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl 0day
+0 3 Y oracle re-patches decade-old solaris bug
+6 5 Y poc code surfaces to exploit apache_struts 2 vulnerability threatpost
+1 0 Y fedora 25 moin 2016-cde4525fab nessus
+0 1 Y microsoft azure flaw exposed rhel virtual machines to hacking risk in terms of delivering public cloud infosec
+0 4 N microsoft azure flaw exposed rhel virtual machines to hacking risk in terms of delivering public cloud infosec
+1 2 Y threatmeter windows shell_file_path_validation_flaw_lets_remote_users_execute_arbitrary_code
+2 1 Y 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+1 4 Y 0daytoday chrome v8 promiseallresolveelementclosure element_confusion_vulnerability 0day exploit
+14 6 Y if you re going to use windows it makes security sense to use windows 10 zero-day vulnerabilities the infosec
+14 13 Y if you re going to use windows it makes security sense to use windows 10 zero-day vulnerabilities the infosec
+0 9 Y windows win32k and other component bugs let remote users execute_arbitrary_code and local_users_gain_elevated
+0 11 Y windows win32k and other component bugs let remote users execute_arbitrary_code and local_users_gain_elevated
+10 9 Y email phishers using a simple way to bypass ms office 365 protection thehackernews
+2 3 Y threatmeter vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities
+3 5 Y threatmeter vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities
+0 1 Y oracle weblogic_server attacks spike after vulnerability poc published scmagazine
+6 9 Y cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+8 9 Y cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+11 9 Y cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+9 1 Y cve-2016-8027 sql_injection_vulnerability in core services in intel security mcafee epolicy_orchestrator epo 5.3
+2 1 N shellcode linux x86-64 bin sh c reboot_shellcode 89 bytes
+1 6 N shellcode linux x86-64 bin sh c reboot_shellcode 89 bytes
+1 0 N shellcode linux x86-64 bin sh c reboot_shellcode 89 bytes
+1 10 N 0daytoday linux arm reverse ::1:4444 tcp shell bin sh ipv6 shellcode 116 bytes 0day exploit
+6 2 Y cve-2016-9311 ntp dos_exploit released update your windows_server_ntp dos hacking
+1 2 Y cve-2016-9311 ntp dos_exploit released update your windows_server_ntp dos hacking
+0 3 Y microsoft rushes out windows 10 wifi fix in time for patch tuesday infosec
+4 3 Y microsoft rushes out windows 10 wifi fix in time for patch tuesday infosec
+7 5 Y full disclosure ts session hijacking privilege_escalation all windows versions
+3 2 Y rt threatpost apache_struts 2 flaw uncovered more critical than equifax bug:
+2 1 Y threatmeter fedora 23 perl-dbd-mysql 2016-bf6c3ea62c
+0 1 Y oracle glassfish_server url normalization denial_of_service
+1 4 Y oracle glassfish_server url normalization denial_of_service
+5 4 Y threatmeter cve-2016-9678 use-after-free_vulnerability in citrix_provisioning_services before_7.12 allows attacke
+4 2 Y threatmeter cve-2016-9678 use-after-free_vulnerability in citrix_provisioning_services before_7.12 allows attacke
+2 3 Y threatmeter 0daytoday microsoft internet_explorer 9 ieframe cmarkup::remove pointer pos use-after-free ms1
+4 3 Y threatmeter 0daytoday microsoft internet_explorer 9 ieframe cmarkup::remove pointer pos use-after-free ms1
+3 9 Y threatmeter 0daytoday microsoft internet_explorer 9 ieframe cmarkup::remove pointer pos use-after-free ms1
+1 2 Y threatmeter microsoft windows atom tables code_injection
+2 5 Y threatmeter microsoft windows atom tables code_injection
+1 2 Y vuln red_hat cloudforms management app cve-2017-2653 security_bypass_vulnerability
+2 6 Y vuln red_hat cloudforms management app cve-2017-2653 security_bypass_vulnerability
+0 3 Y microsoft com for windows improper_serialized_object_handling
+3 4 Y microsoft com for windows improper_serialized_object_handling
+11 7 Y cve-2016-1251 there is a vulnerability of type use-after-free affecting dbd::mysql aka dbd-mysql or the database
+4 10 Y rt gossithedog speaking of microsoft 0day here s a new office code_execution technique all versions which ms aren t planning to
+10 11 Y rt gossithedog speaking of microsoft 0day here s a new office code_execution technique all versions which ms aren t planning to
+5 3 Y cve-2016-9962 race_condition in docker engine before_1.12.6 might allow local root users in a container to gain pr
+3 1 Y cve-2016-9962 race_condition in docker engine before_1.12.6 might allow local root users in a container to gain pr
+15 14 Y rt atucom i updated my post with a simple python command runner for the apache_struts 2 exploit cve-2018-11776:
+5 8 N threatmeter ca common services on aix hp-ux linux_solaris privilege_escalation
+7 8 Y threatmeter ca common services on aix hp-ux linux_solaris privilege_escalation
+1 8 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+1 2 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+7 8 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+7 2 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+8 6 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+2 6 Y vuln microsoft windows gdi component cve-2018-8394 information_disclosure_vulnerability microsoft windows gdi
+14 6 N cve-2016-9774 the postinst script in the tomcat6 package before_6.0.45 dfsg-1 deb7u4 on debian wheezy before_6.0.
+14 12 N cve-2016-9774 the postinst script in the tomcat6 package before_6.0.45 dfsg-1 deb7u4 on debian wheezy before_6.0.
+8 6 Y cve-2016-9774 the postinst script in the tomcat6 package before_6.0.45 dfsg-1 deb7u4 on debian wheezy before_6.0.
+8 12 N cve-2016-9774 the postinst script in the tomcat6 package before_6.0.45 dfsg-1 deb7u4 on debian wheezy before_6.0.
+1 0 Y linux_kernel 3.12.68_lts hits the streets with sparc and networking improvements
+3 2 N threatmeter shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+2 1 N threatmeter shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+2 8 N threatmeter shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+10 0 Y windows 10 still needs emet exploit protection us cert tells microsoft nakedsecurity
+1 0 Y windows 10 still needs emet exploit protection us cert tells microsoft nakedsecurity
+0 1 Y google chrome accessibility blink::node corruption exploit
+1 8 N rt mcafee_labs want to break into a locked windows10 device ask cortana cve-2018-8140
+1 11 N rt mcafee_labs want to break into a locked windows10 device ask cortana cve-2018-8140
+14 6 Y if you re going to use windows it makes security sense to use windows 10 zero-day vulnerabilities the infosec
+14 13 Y if you re going to use windows it makes security sense to use windows 10 zero-day vulnerabilities the infosec
+5 1 N kb4284867 windows 7 and windows server_2008_r2 june 2018 security update nessus plugin id 110486 with high
+5 4 Y kb4284867 windows 7 and windows server_2008_r2 june 2018 security update nessus plugin id 110486 with high
+2 1 Y kb4284867 windows 7 and windows server_2008_r2 june 2018 security update nessus plugin id 110486 with high
+2 4 N kb4284867 windows 7 and windows server_2008_r2 june 2018 security update nessus plugin id 110486 with high
+1 2 Y vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities oracle infosec
+5 2 Y vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities oracle infosec
+2 4 Y vuln oracle peoplesoft_enterprise peopletools multiple_remote_security_vulnerabilities oracle infosec
+2 9 Y hackers using excel iqy files to dodge antivirus and download_malware scmagazine
+10 9 Y cve-2018-5995 the pcpu_embed_first_chunk function in mm percpu.c in the linux_kernel through_4.14.14 allows local u
+0 1 Y microsoft windows_enterprise mode site list 1 2 xml_injection
+1 7 Y microsoft windows_enterprise mode site list 1 2 xml_injection
+2 8 Y rt threatpost adobe issues over 100 patches for flash_acrobat and reader
+1 2 Y threatmeter microsoft windows_enterprise mode site list 1 2 xml_injection
+2 8 Y threatmeter microsoft windows_enterprise mode site list 1 2 xml_injection
+2 1 N 0daytoday linux x86 reverse tcp ::ffff:192.168.1.5:4444 tcp shell bin sh null-free ipv6 shellcode 8
+1 12 N 0daytoday linux x86 reverse tcp ::ffff:192.168.1.5:4444 tcp shell bin sh null-free ipv6 shellcode 8
+4 6 Y rt ruggerotonelli security cve-2016-8655 linux af_packet.c race_condition_local_root lt yep another server r
+10 6 N rt ruggerotonelli security cve-2016-8655 linux af_packet.c race_condition_local_root lt yep another server r
+1 0 Y ubuntu 18.04_lts apt vulnerability usn-3746-1 nessus
+10 9 Y cve-2016-8646 the hash_accept function in crypto algif_hash.c in the linux_kernel before_4.3.6 allows local users
+1 2 Y zdi-17-178 adobe flash transform matrix use-after-free_remote_code_execution_vulnerability
+2 5 Y zdi-17-178 adobe flash transform matrix use-after-free_remote_code_execution_vulnerability
+7 6 Y want to break into a locked windows 10 device ask cortana cve-2018-8140 by cedric cochin mcafeelabs
+7 10 N want to break into a locked windows 10 device ask cortana cve-2018-8140 by cedric cochin mcafeelabs
+0 3 Y microsoft com for windows improper serialized object handling packetstorm
+1 2 Y 0daytoday google chrome integer_overflow when processing webassembly locals exploit 0day exploit
+2 3 Y 0daytoday google chrome integer_overflow when processing webassembly locals exploit 0day exploit
+1 2 Y threatmeter microsoft internet_explorer html help control 4.74 bypass
+6 2 Y threatmeter microsoft internet_explorer html help control 4.74 bypass
+6 5 Y rt infosec_pom infosec_pom 41 cvss:6.9 windows 10 desktop bridge virtual registry cve-2018-0880 incomplete_fix privil
+5 12 N rt infosec_pom infosec_pom 41 cvss:6.9 windows 10 desktop bridge virtual registry cve-2018-0880 incomplete_fix privil
+2 1 N shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+1 0 N shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+1 7 N shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+1 4 N spectre v4 fix and windows dns patch in june patchtuesday
+4 0 Y spectre v4 fix and windows dns patch in june patchtuesday
+4 6 N research security samri10 windows 10 hardening tool for thwarting network recon
+4 3 Y research security samri10 windows 10 hardening tool for thwarting network recon
+5 6 Y threatmeter ms17-010 security update for microsoft windows smb server 4013389 uncredentialed check
+5 8 N threatmeter ms17-010 security update for microsoft windows smb server 4013389 uncredentialed check
+1 2 Y dos microsoft windows gdi32.dll emr_setdibitstodevice heap-based_out-of-bounds_reads_memory disclosure
+2 5 Y dos microsoft windows gdi32.dll emr_setdibitstodevice heap-based_out-of-bounds_reads_memory disclosure
+1 0 Y apache_struts 2 flaw uncovered more critical than equifax bug:
+1 2 Y threatmeter windows uac_protection_bypass via slui file handler hijack
+1 2 Y 5-year-old linux_kernel local_privilege_escalation_flaw discovered
+3 4 Y security update for adobe flash_player apsb18-19 360 core security this vulnerabil
+13 7 N cve-2018-14678 an issue was discovered in the linux_kernel through_4.17.11 as used in xen through_4.11.x the xen_
+8 7 Y cve-2018-14678 an issue was discovered in the linux_kernel through_4.17.11 as used in xen through_4.11.x the xen_
+5 0 Y office 365 flaw made fake microsoft emails look legitimate
+1 0 Y office 365 flaw made fake microsoft emails look legitimate
+1 0 Y chrome v8 keyaccumulator bug exploit
+10 9 Y cve-2018-5953 the swiotlb_print_info function in lib swiotlb.c in the linux_kernel through_4.14.14 allows local
+0 3 Y oracle re-patches decade-old solaris bug
+2 10 N threatmeter 0daytoday linux mips64 execve bin sh shellcode 48 bytes shellcode 0day exploit
+2 7 N threatmeter 0daytoday linux mips64 execve bin sh shellcode 48 bytes shellcode 0day exploit
+1 0 Y mysql 5.6.x_lt_5.6.41 multiple_vulnerabilities rpm check april 2018 cpu nessus
+0 2 Y mysql 5.6.x_lt_5.6.41 multiple_vulnerabilities rpm check april 2018 cpu nessus
+16 1 Y adobe flash flaws dominate exploit kits in 2016 the top 10 vulnerabilities this year were mostly adobe infosec
+0 1 Y adobe flash flaws dominate exploit kits in 2016 the top 10 vulnerabilities this year were mostly adobe infosec
+1 5 N cybersecurity microsoft azure flaw exposed rhel virtual machines to hacking risk infosec
+1 2 Y cybersecurity microsoft azure flaw exposed rhel virtual machines to hacking risk infosec
+4 9 Y skilled attacker develops advanced windows botnet to spread infamous mirai_malware
+2 3 N rt brutelogic chrome xss auditor svg bypass
+5 2 Y threatmeter kb4284819 windows 10 version 1709 june 2018 security update nessus plugin id 110485 with high severi
+3 2 Y threatmeter kb4284819 windows 10 version 1709 june 2018 security update nessus plugin id 110485 with high severi
+6 9 N use-after-free_uaf_vulnerability cve-2018-8373 in vbscript engine affects internet_explorer to run shellcode
+6 0 Y use-after-free_uaf_vulnerability cve-2018-8373 in vbscript engine affects internet_explorer to run shellcode
+5 6 Y cve-2018-8248 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+6 2 Y cve-2018-8248 a remote_code_execution_vulnerability exists in microsoft excel software when the software fails to p
+2 3 Y threatmeter 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl
+3 4 Y threatmeter 0daytoday google chrome_googlechrome integer_overflow when processing webassembly locals expl
+0 1 Y oracle glassfish server url_normalization_denial_of_service nessus plugin id 110612 with high severity synopsis
+1 3 Y oracle glassfish server url_normalization_denial_of_service nessus plugin id 110612 with high severity synopsis
+0 3 Y adobe patches critical flash_player bug with active windows exploit patch exploit
+0 7 N adobe patches critical flash_player bug with active windows exploit patch exploit
+1 0 Y apache_struts 2 flaw uncovered more critical than equifax bug
+1 0 Y linux_kernel 2.6.32-rc1_x86_64 register leak
+11 1 Y threatmeter windows 10 still needs emet exploit protection us cert tells microsoft
+2 1 Y threatmeter windows 10 still needs emet exploit protection us cert tells microsoft
+2 5 N rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+2 0 Y rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+2 3 Y rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+6 5 N rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+6 0 N rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+6 3 Y rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+1 5 N rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+1 0 Y rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+1 3 N rhel 6_7 red_hat jboss web server 3.1.0 service pack 4 rhsa-2018:2469 nessus
+1 2 Y threatmeter adobe flash_player multiple_bugs let remote users bypass_security_restrictions and execute_arbitrary
+2 9 Y threatmeter adobe flash_player multiple_bugs let remote users bypass_security_restrictions and execute_arbitrary
+2 3 N threatmeter adobe flash_player multiple_bugs let remote users bypass_security_restrictions and execute_arbitrary
+2 7 Y threatmeter adobe flash_player multiple_bugs let remote users bypass_security_restrictions and execute_arbitrary
+0 1 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+0 8 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+7 1 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+7 8 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+1 12 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+1 2 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+8 12 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+8 2 Y google chrome integer_overflow when processing webassembly locals google chrome suffers from an integer_overflow
+1 0 Y windows 10 suddenly killing internet connectivity for some users infosec itsecuritynews
+10 9 Y cve-2016-8646 the hash_accept function in crypto algif_hash.c in the linux_kernel before_4.3.6 allows local users
+1 2 Y vigilnce microsoft windows journal buffer_overflow via a jtp file
+2 4 Y vigilnce microsoft windows journal buffer_overflow via a jtp file
+6 5 Y threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+6 11 N threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+6 2 N threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+3 5 N threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+3 11 N threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+3 2 Y threatmeter kb4284878 windows 8.1 and windows_server 2012_r2 june 2018 security update nessus plugin id 110484 w
+2 1 N 0daytoday linux x86 dual network stack ipv4 and ipv6 bind tcp shellcode_shellcode 0day exploit
+1 11 N 0daytoday linux x86 dual network stack ipv4 and ipv6 bind tcp shellcode_shellcode 0day exploit
+9 1 Y adobe flash_player flaws remain the most used by exploit adobe ek hacking
+0 1 Y adobe flash_player flaws remain the most used by exploit adobe ek hacking
+5 6 Y cve-2018-8378 an information_disclosure_vulnerability exists when microsoft office software reads out of bound memo
+6 2 Y cve-2018-8378 an information_disclosure_vulnerability exists when microsoft office software reads out of bound memo
+1 8 Y threatmeter openstack glance image service api v1 portscan information_disclosure
+5 6 Y security alert a17-01-04 multiple_vulnerabilities in oracle java and oracle products january 2017
+8 6 Y security alert a17-01-04 multiple_vulnerabilities in oracle java and oracle products january 2017
+6 3 Y security alert a17-01-04 multiple_vulnerabilities in oracle java and oracle products january 2017
+9 8 Y kb4343909 fixes dll and high cpu issues on windows 10_v1803
+3 2 N threatmeter shellcode linux x86 reverse tcp ::ffff:192.168.1.5:4444 tcp shell bin sh null-free ipv6 s
+2 1 N threatmeter shellcode linux x86 reverse tcp ::ffff:192.168.1.5:4444 tcp shell bin sh null-free ipv6 s
+0 1 Y oracle solaris critical patch update jan2017_sru11_3_16_3_0
+0 3 Y microsoft com for windows improper serialized object handling exploit
+1 0 Y suse sles12 security update kernel suse-su-2018:1506-1 nessus plugin id 110341 with medium severity synopsis
+0 1 Y microsoft azure flaw exposed rhel virtual machines to hacking risk infosec itsecuritynew
+0 4 Y microsoft azure flaw exposed rhel virtual machines to hacking risk infosec itsecuritynew
+0 7 Y linux_kernel bug in cipso_v4_optptr lets remote users deny_service
+1 5 N 0daytoday microsoft internet_explorer 8 mshtml amp 039 ptls5::ls find span visual boundar 0day exploit
+1 2 Y 0daytoday microsoft internet_explorer 8 mshtml amp 039 ptls5::ls find span visual boundar 0day exploit
+3 5 N 0daytoday microsoft internet_explorer 8 mshtml amp 039 ptls5::ls find span visual boundar 0day exploit
+3 2 Y 0daytoday microsoft internet_explorer 8 mshtml amp 039 ptls5::ls find span visual boundar 0day exploit
+7 6 Y phishers use zerofont technique to bypass office 365 protections
+7 6 Y cve-2016-8645 the tcp stack in the linux_kernel before_4.8.10 mishandles skb truncation which allows local users
+9 5 Y microsoft details tweaks to its windows 7_8.1 patch rollups microsoft has made some changes to its infosec
+0 5 Y microsoft details tweaks to its windows 7_8.1 patch rollups microsoft has made some changes to its infosec
+6 5 Y microsoft details tweaks to its windows 7_8.1 patch rollups microsoft has made some changes to its infosec
+10 9 Y email phishers using a simple way to bypass ms office 365 protection infosec
+0 9 Y adobe s august patch tuesday release impacts flash_player and acrobat dc and reader
+0 7 Y adobe s august patch tuesday release impacts flash_player and acrobat dc and reader
+2 1 Y threatmeter chrome v8 promiseallresolveelementclosure element confusion
+1 0 Y ubuntu 18.04_lts mozjs52 vulnerabilities usn-3749-1 nessus
+2 3 Y security news adobe flash_player flaws remain the most used by exploit kits
+3 2 Y security hacking windows 10 creators update brings new security capabilities
+0 1 Y oracle linux 6 kernel elsa-2018-1854 spectre nessus plugin id 110701 with critical severity synopsis the
+2 1 Y oracle linux 6 kernel elsa-2018-1854 spectre nessus plugin id 110701 with critical severity synopsis the
+1 5 Y oracle linux 6 kernel elsa-2018-1854 spectre nessus plugin id 110701 with critical severity synopsis the
+1 6 Y threatmeter google releases details of unpatched internet_explorer and microsoft edge vulnerability mark wilson
+1 9 N threatmeter google releases details of unpatched internet_explorer and microsoft edge vulnerability mark wilson
+8 6 Y threatmeter google releases details of unpatched internet_explorer and microsoft edge vulnerability mark wilson
+8 9 Y threatmeter google releases details of unpatched internet_explorer and microsoft edge vulnerability mark wilson
+2 3 Y threatmeter webapps oracle glassfish_server open source edition 4.1 path_traversal metasploit
+7 3 Y threatmeter webapps oracle glassfish_server open source edition 4.1 path_traversal metasploit
+3 8 Y threatmeter webapps oracle glassfish_server open source edition 4.1 path_traversal metasploit
+0 1 Y microsoft windows hyper-v cve-2017-0099 remote_denial_of_service_vulnerability discoveredmar
+1 4 Y microsoft windows hyper-v cve-2017-0099 remote_denial_of_service_vulnerability discoveredmar
+14 0 Y rhel 6 chromium-browser rhsa-2018:1815 nessus plugin id 110406 with high severity synopsis the remote red_hat
+1 0 Y rhel 6 chromium-browser rhsa-2018:1815 nessus plugin id 110406 with high severity synopsis the remote red_hat
+6 13 Y na cve-2016-7257 the gdi component in microsoft windows_vista the gdi component in microsoft windows_vista
+6 7 Y na cve-2016-7257 the gdi component in microsoft windows_vista the gdi component in microsoft windows_vista
+12 13 Y na cve-2016-7257 the gdi component in microsoft windows_vista the gdi component in microsoft windows_vista
+12 7 Y na cve-2016-7257 the gdi component in microsoft windows_vista the gdi component in microsoft windows_vista
+0 1 Y red_hat jboss flaw in drools workbench component lets remote_authenticated_users_traverse_the_directory to view fi
+0 4 Y red_hat jboss flaw in drools workbench component lets remote_authenticated_users_traverse_the_directory to view fi
