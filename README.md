@@ -12,7 +12,7 @@ python ner_train.py --embeddings <Path to a npz file with the embedding vectors 
 re_model/train.py
 
 #Information extraction
- Classification -> Named Entity Recognition -> Relationship Extraction
- Use web framework for building APIs with Python: FastAPI
- Install fastAPI -> run python main.py
+Classification -> Named Entity Recognition -> Relationship Extraction
+Use web framework for building APIs with Python: FastAPI
+Install fastAPI -> run python main.py
   
